@@ -126,3 +126,18 @@ a:hover{
     font-size: 0.75rem;
     padding: 20px 0;
 }
+.linkdinIcon{
+    width: 4rem;
+    transition: all 0.2s ease-in-out;
+    margin: 0 20px;
+}
+.twitterIcon{
+    width: 4rem;
+    transition: all 0.2s ease-in-out;
+    margin: 0 20px;
+}
+.githubIcon{
+    width: 4rem;
+    transition: all 0.2s ease-in-out;
+    margin: 0 20px;
+}

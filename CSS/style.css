@@ -120,10 +120,6 @@ a{
 a:hover{
     color: #ffffff;
 }
-.footer-link:hover {
-    transform:scale(1.1);
-    opacity: 0.5;
-}
 .copyright{
     color:#ffffff;
     font-size: 0.75rem;
